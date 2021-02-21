@@ -1,0 +1,10 @@
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\bin\Debug\Veri Tabani Silme Guncelleme ders 26.exe.config
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\bin\Debug\Veri Tabani Silme Guncelleme ders 26.exe
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\bin\Debug\Veri Tabani Silme Guncelleme ders 26.pdb
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\obj\Debug\Veri Tabani Silme Guncelleme ders 26.csprojAssemblyReference.cache
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\obj\Debug\Veri_Tabani_Silme_Guncelleme_ders_26.Form1.resources
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\obj\Debug\Veri_Tabani_Silme_Guncelleme_ders_26.Properties.Resources.resources
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\obj\Debug\Veri Tabani Silme Guncelleme ders 26.csproj.GenerateResource.cache
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\obj\Debug\Veri Tabani Silme Guncelleme ders 26.csproj.CoreCompileInputs.cache
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\obj\Debug\Veri Tabani Silme Guncelleme ders 26.exe
+E:\source\repos\C# ders 26\Veri Tabani Silme Guncelleme ders 26\Veri Tabani Silme Guncelleme ders 26\obj\Debug\Veri Tabani Silme Guncelleme ders 26.pdb
